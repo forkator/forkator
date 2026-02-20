@@ -1,8 +1,5 @@
 # Forkator: Risk Engine for Perpetual DEXs
 
-⚠️ **EDUCATIONAL RESEARCH PROJECT — NOT PRODUCTION READY** ⚠️  
-Do **NOT** use with real funds. Not audited. Experimental design.
-
 Forkator is a **formally verified accounting + risk engine** for perpetual futures DEXs on Solana.
 
 **Primary goal:**
